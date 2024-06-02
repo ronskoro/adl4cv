@@ -1,0 +1,127 @@
+{
+    "os": "Linux-6.5.0-35-generic-x86_64-with-glibc2.35",
+    "python": "3.11.9",
+    "heartbeatAt": "2024-06-02T12:27:49.541305",
+    "startedAt": "2024-06-02T12:27:49.057227",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "git@github.com:ronskoro/adl4cv.git",
+        "commit": "7102a1376669c360d2f8bf31974bda6bcceaedb9"
+    },
+    "email": "rskorobogat@gmail.com",
+    "root": "/home/lukas_ronald/adl4cv",
+    "host": "VC50",
+    "username": "lukas_ronald",
+    "executable": "/home/lukas_ronald/anaconda3/envs/adl/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2209.8055,
+        "min": 800.0,
+        "max": 5025.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2849.001,
+            "min": 800.0,
+            "max": 5000.0
+        },
+        {
+            "current": 4333.083,
+            "min": 800.0,
+            "max": 5000.0
+        },
+        {
+            "current": 1238.659,
+            "min": 800.0,
+            "max": 5000.0
+        },
+        {
+            "current": 4223.662,
+            "min": 800.0,
+            "max": 5000.0
+        },
+        {
+            "current": 4643.657,
+            "min": 800.0,
+            "max": 5100.0
+        },
+        {
+            "current": 2428.223,
+            "min": 800.0,
+            "max": 5100.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 5000.0
+        },
+        {
+            "current": 1944.081,
+            "min": 800.0,
+            "max": 5000.0
+        },
+        {
+            "current": 3836.733,
+            "min": 800.0,
+            "max": 5000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 5000.0
+        },
+        {
+            "current": 4530.352,
+            "min": 800.0,
+            "max": 5000.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 5000.0
+        },
+        {
+            "current": 4266.621,
+            "min": 800.0,
+            "max": 5100.0
+        },
+        {
+            "current": 4436.854,
+            "min": 800.0,
+            "max": 5100.0
+        },
+        {
+            "current": 3408.637,
+            "min": 800.0,
+            "max": 5000.0
+        },
+        {
+            "current": 4291.347,
+            "min": 800.0,
+            "max": 5000.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 937.3305015563965,
+            "used": 553.3097267150879
+        }
+    },
+    "gpu": "Quadro RTX 5000",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "Quadro RTX 5000",
+            "memory_total": 17179869184
+        }
+    ],
+    "memory": {
+        "total": 62.519996643066406
+    }
+}
