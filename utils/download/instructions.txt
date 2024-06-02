@@ -1,0 +1,2 @@
+To download the data in the data folder, call the following command from this directory:
+python3 download-scannet.py --type .aggregation.json -o ../../data/scannet200
