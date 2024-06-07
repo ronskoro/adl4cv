@@ -1,0 +1,3 @@
+[submodule "ImbalancedLearning"]
+	path = ImbalancedLearning
+	url = git@github.com:NeuralCollapseApplications/ImbalancedLearning.git
